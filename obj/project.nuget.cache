@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHPhLsg37iZiXyfnlIhICQvwO20WiVfPKpzM1HGZwKZThw/aPR3qzcxcC2JnzRgwA6RmU6l8mk5TXEj+TP/BIA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\toton\\Documents\\Coding\\cours\\Qualité de prog - MARE\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toton\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

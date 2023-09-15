@@ -1,0 +1,17 @@
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\app.exe
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\app.deps.json
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\app.runtimeconfig.json
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\app.dll
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\app.pdb
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.csproj.CopyComplete
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.dll
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\refint\app.dll
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.pdb
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+c:\Users\toton\Documents\Coding\cours\Qualité de prog - MARE\app\obj\Debug\net7.0\ref\app.dll
